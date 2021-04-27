@@ -1,6 +1,6 @@
-Web Developer.
+Developer.
 
-Conhecimentos em: HTML, Javascript, CSS, PHP, Banco de Dados, Java, Engenharia de Software, UML, Gerenciamento de Projetos e Linux.
+Conhecimentos em: Java, Engenharia de Software, Gerenciamento de Projetos, HTML, Javascript, CSS, PHP, Banco de Dados, UML e Linux.
 
 
  
