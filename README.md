@@ -1,6 +1,7 @@
 Developer.
 
 Conhecimentos em: Engenharia de Software, Gerenciamento de Projetos, Banco de Dados, Gerenciamento de Servidores, Programação Frontend e Backend.
+
 Linguagens e Tecnologias Utilizadas: Java, C#, HTML, Javascript, CSS, PHP, MYSQL, Oracle Database e Linux.
 
  
