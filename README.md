@@ -13,6 +13,6 @@ Linguagens e Tecnologias Utilizadas: Java, C#, PHP, Javascript, TypeScript, Angu
 
 [CupomDescontoo](https://www.cupomdescontoo.com).
 
-[Os Cupons de Desconto](https://www.oscuponsdedesconto.com.br).
+[Os Cupons de Desconto](https://www.oscuponsdedesconto.com.br/).
 
 
